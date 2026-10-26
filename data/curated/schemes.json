@@ -1,0 +1,302 @@
+[
+  {
+    "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "purpose": "Provides income support to eligible farmer families through the prescribed direct-benefit mechanism.",
+    "eligibility": "Eligible landholding farmer families are identified under central guidelines, subject to exclusions and land-record verification.",
+    "benefits": "Provides notified income-support instalments through DBT when conditions are satisfied; eKYC is required on the official portal.",
+    "application_process": "Register or update details on the PM-KISAN portal, through a State or Union Territory agriculture department, or an authorised CSC.",
+    "official_source_url": "https://pmkisan.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "purpose": "Provides crop-insurance coverage against specified crop and weather-related risks.",
+    "eligibility": "Farmers growing notified crops in notified areas may be covered, subject to season, crop, state notification, and policy conditions.",
+    "benefits": "Insurance protection and admissible claims are governed by the notified policy, loss assessment, and applicable terms; no claim amount is guaranteed.",
+    "application_process": "Apply through the official portal, participating bank or PACS, insurance company, or authorised channel during the applicable enrolment period.",
+    "official_source_url": "https://pmfby.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Kisan Credit Card (KCC) Scheme",
+    "purpose": "Facilitates institutional agricultural credit for cultivation and related farming needs.",
+    "eligibility": "Farmers, tenant farmers, sharecroppers, self-help groups, and joint-liability groups may qualify according to lender and scheme rules.",
+    "benefits": "Provides a sanctioned revolving credit facility subject to appraisal, limits, interest rules, repayment, and lender conditions.",
+    "application_process": "Apply at a participating commercial bank, regional rural bank, cooperative bank, or the lender's official digital channel.",
+    "official_source_url": "https://www.myscheme.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+    "purpose": "Expands irrigation coverage and promotes efficient water use, including Per Drop More Crop.",
+    "eligibility": "Farmers and implementing entities may benefit through components selected and administered by the relevant State or Union Territory agency.",
+    "benefits": "May support irrigation, water-use efficiency, watershed, or related interventions approved under the applicable component.",
+    "application_process": "Apply through the State agriculture, horticulture, irrigation, watershed, or designated implementing department.",
+    "official_source_url": "https://pmksy.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Soil Health Card Scheme",
+    "purpose": "Provides soil-test-based information and recommendations for balanced nutrient management.",
+    "eligibility": "Farmers whose fields are sampled through the government soil-testing system may receive a card or report.",
+    "benefits": "Provides soil-test results and crop-specific nutrient recommendations; it is not itself a guaranteed cash benefit.",
+    "application_process": "Contact the local agriculture department, soil-testing laboratory, or use the official Soil Health portal.",
+    "official_source_url": "https://soilhealth.dac.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "National Agriculture Market (e-NAM)",
+    "purpose": "Links participating agricultural markets through an electronic trading and price-discovery platform.",
+    "eligibility": "Farmers, traders, commission agents, FPOs, and other market participants may participate where their market is integrated and registration is accepted.",
+    "benefits": "Can provide electronic bidding, wider market access, price discovery, and transaction-related services subject to APMC and platform rules.",
+    "application_process": "Register through an e-NAM mandi, State or Union Territory market authority, FPO channel, or the official platform.",
+    "official_source_url": "https://enam.gov.in/web/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "PM-KUSUM",
+    "purpose": "Promotes decentralised renewable-energy applications, including solar agriculture pumps and renewable power generation.",
+    "eligibility": "Farmers, farmer groups, cooperatives, panchayats, and other categories may qualify under the relevant component and State or Union Territory notification.",
+    "benefits": "May provide approved financial support or facilitate installation or use of renewable-energy systems, subject to component guidelines and state implementation.",
+    "application_process": "Apply through the State renewable-energy or agriculture implementing agency listed on the National Portal.",
+    "official_source_url": "https://pmkusum.mnre.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Agriculture Infrastructure Fund (AIF)",
+    "purpose": "Supports financing for post-harvest infrastructure and community farming assets.",
+    "eligibility": "Eligible farmers, FPOs, cooperatives, agri-entrepreneurs, startups, and approved entities may apply for eligible projects.",
+    "benefits": "Provides access to eligible institutional financing and scheme-linked support subject to project appraisal, lending, and guideline conditions.",
+    "application_process": "Submit a project through the official AIF portal and participating lending institution.",
+    "official_source_url": "https://agriinfra.dac.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+    "purpose": "Promotes cluster-based organic farming and related certification and value-chain activities.",
+    "eligibility": "Farmer groups or clusters selected under State or Union Territory implementation arrangements may participate.",
+    "benefits": "May support organic-farming inputs, training, certification, documentation, and market-linkage activities approved under the scheme.",
+    "application_process": "Approach the State agriculture department, district agriculture office, or designated cluster agency.",
+    "official_source_url": "https://pgsindia-ncof.gov.in/PKVY/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "National Mission on Sustainable Agriculture (NMSA)",
+    "purpose": "Encourages climate-resilient, resource-efficient, and sustainable agricultural practices.",
+    "eligibility": "Farmers and implementing entities may qualify through components notified and administered by States or Union Territories.",
+    "benefits": "May support approved interventions relating to soil, water, farm management, or climate resilience; benefits vary by component.",
+    "application_process": "Apply through the State agriculture department or implementing agency.",
+    "official_source_url": "https://agriwelfare.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)",
+    "purpose": "Provides a legal framework for demand-driven wage employment and creation of rural assets.",
+    "eligibility": "Adult members of rural households willing to undertake unskilled manual work may request registration and employment, subject to the Act and local process.",
+    "benefits": "Provides employment and wages for approved works according to the Act, muster-roll records, and applicable wage notifications.",
+    "application_process": "Register and demand work through the Gram Panchayat, Programme Officer, or official MGNREGA channels.",
+    "official_source_url": "https://nrega.dord.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Pradhan Mantri Awaas Yojana-Gramin (PMAY-G)",
+    "purpose": "Supports housing assistance for eligible rural households lacking an adequately habitable house.",
+    "eligibility": "Beneficiaries are selected through the prescribed deprivation-based and administrative verification process.",
+    "benefits": "Provides housing assistance and related convergence support according to approved norms and instalment conditions.",
+    "application_process": "Beneficiary identification is normally through Gram Panchayat or State rural-development authorities; status can be checked on the official system.",
+    "official_source_url": "https://pmayg.nic.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Deendayal Antyodaya Yojana-National Rural Livelihoods Mission (DAY-NRLM)",
+    "purpose": "Organises rural poor households, especially women, into self-help groups and supports sustainable livelihoods.",
+    "eligibility": "Rural poor households and community institutions may participate through State Rural Livelihoods Missions.",
+    "benefits": "May provide social mobilisation, training, financial-inclusion, enterprise, and livelihood support through SHG institutions.",
+    "application_process": "Contact the State Rural Livelihoods Mission, block mission unit, village organisation, or SHG federation.",
+    "official_source_url": "https://aajeevika.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+    "purpose": "Improves all-weather rural road connectivity to eligible habitations.",
+    "eligibility": "This is primarily an infrastructure programme; eligibility is determined for habitations and roads under programme guidelines rather than individual applications.",
+    "benefits": "Provides improved road connectivity and related rural access; it is not normally an individual cash-benefit scheme.",
+    "application_process": "Submit road or connectivity representations through the Gram Panchayat, district rural-roads agency, or State implementing department.",
+    "official_source_url": "https://pmgsy.nic.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Jal Jeevan Mission",
+    "purpose": "Works toward safe and adequate drinking-water supply through rural household tap connections and source sustainability.",
+    "eligibility": "Rural households and habitations are covered through State or Union Territory and village-level implementation plans.",
+    "benefits": "May provide household tap-water connections, village water infrastructure, and water-quality or source-sustainability measures as approved.",
+    "application_process": "Approach the Gram Panchayat, Village Water and Sanitation Committee, or State rural-water-supply department.",
+    "official_source_url": "https://jaljeevanmission.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Swachh Bharat Mission-Grameen (SBM-G)",
+    "purpose": "Supports rural sanitation, ODF sustainability, and solid and liquid waste management.",
+    "eligibility": "Rural households and local bodies may be covered under State or Union Territory implementation plans and prescribed eligibility checks.",
+    "benefits": "May support sanitation facilities, cleanliness infrastructure, and waste-management activities under current programme guidelines.",
+    "application_process": "Apply or seek inclusion through the Gram Panchayat, block office, district programme unit, or State SBM-G portal.",
+    "official_source_url": "https://swachhbharatmission.ddws.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "National Social Assistance Programme (NSAP)",
+    "purpose": "Provides social-assistance pensions and family-benefit support to eligible vulnerable households.",
+    "eligibility": "Eligibility depends on the particular NSAP component, age or status criteria, household circumstances, and State or Union Territory verification.",
+    "benefits": "Provides notified social assistance under the relevant component; amounts and procedures can vary by component and State or Union Territory.",
+    "application_process": "Apply through the Gram Panchayat, municipality, district social-welfare office, or designated State portal.",
+    "official_source_url": "https://nsap.nic.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Pradhan Mantri Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi)",
+    "purpose": "Facilitates formal working-capital support and digital or financial inclusion for eligible street vendors.",
+    "eligibility": "Street vendors covered by the applicable survey, certificate, letter of recommendation, and notified State or Union Territory rules may apply.",
+    "benefits": "Provides access to scheme-linked working-capital lending and associated incentives subject to lender approval and current guidelines.",
+    "application_process": "Apply through the official portal, urban local body, Common Service Centre, or participating lending institution.",
+    "official_source_url": "https://pmsvanidhi.mohua.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Pradhan Mantri Jan-Dhan Yojana (PMJDY)",
+    "purpose": "Promotes access to basic bank accounts and financial services for unbanked or underserved persons.",
+    "eligibility": "Individuals without an existing suitable basic bank account may approach a participating bank, subject to KYC and banking rules.",
+    "benefits": "Enables access to basic banking and, where separately eligible, linked financial services and DBT receipt.",
+    "application_process": "Open an account at a participating bank branch, Bank Mitra or Business Correspondent, or other authorised channel.",
+    "official_source_url": "https://pmjdy.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "purpose": "Offers renewable life-insurance cover through participating banks, post offices, and insurers.",
+    "eligibility": "Eligible account holders within the scheme's prescribed age, consent, enrolment, and auto-debit conditions may join.",
+    "benefits": "Provides life-insurance benefit to the nominee on an admissible claim, subject to policy exclusions and terms.",
+    "application_process": "Enrol through the participating bank, post office account provider, or its authorised digital channel.",
+    "official_source_url": "https://financialservices.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "purpose": "Offers renewable personal-accident insurance through participating account providers.",
+    "eligibility": "Eligible account holders meeting the prescribed age, consent, enrolment, and auto-debit requirements may join.",
+    "benefits": "Provides accident-related insurance benefits for covered events, subject to policy definitions, exclusions, and claim procedure.",
+    "application_process": "Enrol through a participating bank, post office, or authorised account-service channel.",
+    "official_source_url": "https://financialservices.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Atal Pension Yojana (APY)",
+    "purpose": "Encourages pension savings for eligible subscribers, particularly workers outside formal pension coverage.",
+    "eligibility": "Indian citizens meeting the scheme's entry, age, bank-account, and contribution conditions may subscribe, subject to current rules.",
+    "benefits": "Provides a pension-related benefit according to the selected contribution option and applicable APY rules.",
+    "application_process": "Maintain an eligible bank account and enrol through the bank, post office, or authorised APY channel.",
+    "official_source_url": "https://www.pfrda.org.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Pradhan Mantri MUDRA Yojana (PMMY)",
+    "purpose": "Facilitates institutional credit for micro and small non-farm enterprises and income-generating activities.",
+    "eligibility": "Micro-enterprises and eligible entrepreneurs may apply through participating lenders, subject to credit appraisal and scheme criteria.",
+    "benefits": "Provides access to eligible business loans and related credit support; sanction, pricing, collateral, and repayment depend on the lender and product.",
+    "application_process": "Apply at a participating bank, regional rural bank, microfinance institution, NBFC, or official lender channel.",
+    "official_source_url": "https://www.mudra.org.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Stand-Up India Scheme",
+    "purpose": "Facilitates bank finance for eligible SC, ST, and women entrepreneurs establishing greenfield enterprises.",
+    "eligibility": "SC or ST borrowers and women entrepreneurs meeting scheme and lender conditions may apply; non-individual entities must satisfy ownership and control requirements.",
+    "benefits": "Provides access to composite bank finance and handholding support subject to appraisal and scheme rules.",
+    "application_process": "Apply through the Stand-Up Mitra portal, scheduled commercial bank branch, or designated handholding agency.",
+    "official_source_url": "https://www.standupmitra.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "purpose": "Supports creation of micro-enterprises and employment through credit-linked assistance.",
+    "eligibility": "Individuals and eligible institutions or groups may apply for admissible new projects subject to PMEGP guidelines and bank appraisal.",
+    "benefits": "May provide credit-linked margin-money assistance and entrepreneurship support; final finance depends on project and lender approval.",
+    "application_process": "Apply through the official PMEGP e-portal, KVIC, KVIB, DIC implementing agency, and participating bank.",
+    "official_source_url": "https://www.kviconline.gov.in/pmegpeportal/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "PM Vishwakarma",
+    "purpose": "Supports traditional artisans and craftspeople through recognition, skills, tools, credit, and market-related assistance.",
+    "eligibility": "Artisans in notified traditional trades may register subject to trade, identity, age, household, and verification conditions.",
+    "benefits": "May include certificate or ID, training, toolkit or digital support, credit facilitation, and market linkage under current guidelines.",
+    "application_process": "Register through a Common Service Centre and complete the prescribed Gram Panchayat or ULB and departmental verification.",
+    "official_source_url": "https://pmvishwakarma.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "National Career Service (NCS)",
+    "purpose": "Provides employment, job-matching, counselling, career-content, and job-fair services.",
+    "eligibility": "Jobseekers, employers, counsellors, skill providers, and other listed users may register for relevant services.",
+    "benefits": "Provides access to job listings, career guidance, counselling, job fairs, and related services; registration and applications are free according to the portal.",
+    "application_process": "Register and use services on the NCS portal or official mobile application, or visit a Career Centre.",
+    "official_source_url": "https://www.ncs.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "Centralised Public Grievance Redress and Monitoring System (CPGRAMS)",
+    "purpose": "Enables citizens to lodge and track grievances concerning public-authority service delivery.",
+    "eligibility": "Any citizen may submit a service-delivery grievance, subject to exclusions such as sub judice, RTI, and specified personnel matters.",
+    "benefits": "Provides registration-ID tracking, departmental handling, feedback, and appeal functionality where applicable.",
+    "application_process": "File online at CPGRAMS, through the official mobile or UMANG integration, or through an assisted government service channel.",
+    "official_source_url": "https://pgportal.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "National Cooperative Development Corporation (NCDC) assistance programmes",
+    "purpose": "Provides financial and developmental assistance for eligible cooperative-sector activities.",
+    "eligibility": "Eligible cooperatives and cooperative federations apply under the relevant NCDC programme and sector guidelines.",
+    "benefits": "May provide loans, grants, or project assistance under the applicable NCDC programme, subject to appraisal and sanction.",
+    "application_process": "Apply through the concerned State or Union Territory Cooperative Department, cooperative federation, or NCDC prescribed route.",
+    "official_source_url": "https://www.ncdc.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  },
+  {
+    "scheme_name": "National Food Security Act (NFSA) and Targeted Public Distribution System (TPDS)",
+    "purpose": "Provides subsidised foodgrain entitlements and related food-security mechanisms to eligible households.",
+    "eligibility": "Eligibility and household identification are administered under NFSA and State or Union Territory beneficiary rules.",
+    "benefits": "Provides access to entitled foodgrain and related portability or grievance services where available, subject to current rules and allocation.",
+    "application_process": "Apply for or update a ration card through the State or Union Territory food and civil-supplies portal, fair-price shop, or designated office.",
+    "official_source_url": "https://nfsa.gov.in/",
+    "verification_date": "2026-10-24",
+    "officially_verified": true
+  }
+]
